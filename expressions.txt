@@ -1,0 +1,11 @@
+a+b
+xy+y=b
+a*b+c
+1*2+4*8
+(a+b)*c
+c*(a+b)+1*2+add(x,y)
+c+(a+b)*b
+a+pow(x,y)
+add(1,b,c,g)+ww=12
+3+add(1,b,c,g)*2=12
+-ba
